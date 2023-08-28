@@ -1,0 +1,316 @@
+/* Reset some default browser styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: lightgreen; /* Background color for the entire page */
+    color: #333; /* Text color */
+}
+
+/* Style for the navbar */
+header {
+    background-color: teal; /* Navbar background color */
+    padding: 10px 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+
+.logo a {
+    text-decoration: none;
+    color: wheat; /* Navbar text color */
+    font-size: 1.5rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: wheat; /* Navbar text color */
+}
+
+/* Style for individual tiles */
+.tile {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: wheat; /* Tile background color */
+}
+
+/* Style for the image in each tile */
+.tile img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-right: 20px;
+}
+
+/* Style for the content in each tile */
+.tile-content {
+    flex: 1;
+}
+
+/* Style for tile headings */
+.tile-content h2 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    color: teal; /* Tile heading color */
+}
+
+/* Style for tile text content */
+.tile-content p {
+    font-size: 1rem;
+    color: #333; /* Tile text color */
+}
+/* Reset some default browser styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: lightgreen; /* Background color for the entire page */
+    color: #333; /* Text color */
+}
+
+/* Style for the navbar */
+header {
+    background-color: teal; /* Navbar background color */
+    padding: 10px 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+
+.logo a {
+    text-decoration: none;
+    color: wheat; /* Navbar text color */
+    font-size: 1.5rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: wheat; /* Navbar text color */
+}
+
+/* Style for individual tiles */
+.tile {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: wheat; /* Tile background color */
+}
+
+/* Style for the image in each tile */
+.tile img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-right: 20px;
+}
+
+/* Style for the content in each tile */
+.tile-content {
+    flex: 1;
+}
+
+/* Style for tile headings */
+.tile-content h2 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    color: teal; /* Tile heading color */
+}
+
+/* Style for tile text content */
+.tile-content p {
+    font-size: 1rem;
+    color: #333; /* Tile text color */
+}
+/* Reset some default browser styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: lightgreen; /* Background color for the entire page */
+    color: #333; /* Text color */
+}
+
+/* Style for the navbar */
+header {
+    background-color: teal; /* Navbar background color */
+    padding: 10px 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+
+.logo a {
+    text-decoration: none;
+    color: wheat; /* Navbar text color */
+    font-size: 1.5rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: wheat; /* Navbar text color */
+}
+
+/* Style for individual tiles */
+.tile {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: wheat; /* Tile background color */
+}
+
+/* Style for the image in each tile */
+.tile img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-right: 20px;
+}
+
+/* Style for the content in each tile */
+.tile-content {
+    flex: 1;
+}
+
+/* Style for tile headings */
+.tile-content h2 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    color: teal; /* Tile heading color */
+}
+
+/* Style for tile text content */
+.tile-content p {
+    font-size: 1rem;
+    color: #333; /* Tile text color */
+}
+/* Reset some default browser styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: lightgreen; /* Background color for the entire page */
+    color: #333; /* Text color */
+}
+
+/* Style for the navbar */
+header {
+    background-color: teal; /* Navbar background color */
+    padding: 10px 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+
+.logo a {
+    text-decoration: none;
+    color: wheat; /* Navbar text color */
+    font-size: 1.5rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: wheat; /* Navbar text color */
+}
+
+/* Style for individual tiles */
+.tile {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: wheat; /* Tile background color */
+}
+
+/* Style for the image in each tile */
+.tile img {
+    max-width: 500px;
+    max-height: 700px;
+    margin-right: 20px;
+}
+
+/* Style for the content in each tile */
+.tile-content {
+    flex: 1;
+}
+
+/* Style for tile headings */
+.tile-content h2 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    color: teal; /* Tile heading color */
+}
+
+/* Style for tile text content */
+.tile-content p {
+    font-size: 1rem;
+    color: #333; /* Tile text color */
+}
